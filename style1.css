@@ -1,0 +1,154 @@
+body {
+    background-color: #aff0cf;
+}
+
+/*nav*/
+nav {
+    background-color: #234F1E;
+    padding: 2% 0%;
+    align-items: center;
+    display: flex;
+    height: 30px;
+    width: 100%;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 24px;
+    margin-left: 23px;
+    color: white;
+    font-family: 'Outfit', sans-serif;
+}
+
+nav a img {
+    width: 24px;
+    height: 24px;
+    border-radius: 100px;
+}
+
+nav span a button {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid white;
+    background-color: #03C04A;
+    border-radius: 20px;
+    margin-left: 558px;
+    height: 40px;
+    width: 100px;
+}
+
+button:hover {
+    background-color: white;
+    color: #03C04A;
+}
+
+.wname {
+    font-size: 27px;
+    font-family: 'Audiowide', sans-serif;
+    color: white;
+}
+
+.hline {
+    background-color: whitesmoke;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    width: 97.8%;
+    padding: 15px;
+    font-family: 'Dosis', sans-serif;
+}
+/*nav*/
+
+/*footer*/
+table {
+    margin: auto;
+}
+footer {
+    background-color: #234F1E;
+    text-align: center;
+    color: white;
+    height: 15%;
+    padding: 20px;
+}
+
+footer a img {
+    width: 65px;
+    height: 65px;
+    border-radius: 100px;
+}
+
+.emt .rf .icon {
+    padding-left: 60px;
+}
+
+.logo {
+    padding-right: 60px;
+}
+
+.em         {
+    background-color: white;
+    border-radius: 8px;
+    border: solid 1px;
+    height: 32px;
+    margin-bottom: 3px;
+    width: 278px;
+}
+
+.sbcr        {
+    background-color: rgb(235, 235, 235);
+    border-radius: 8px;
+    border: solid 1px;
+    height: 28px;
+    width: 282px;
+}
+
+.rf {
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.fspan {
+    font-size: 18px;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.icon .bi {
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    padding-left: 10px;
+}
+
+a       {
+    text-decoration: none;
+    color: white;
+}
+
+.crd       {
+    padding: 20px;
+}
+/*footer*/
+
+.mbphoto        {
+    width: 220px;
+    height: 350px;
+    border-radius: 30px;
+}
+
+.mbp        {
+    width: 210px;
+    height: 350px;
+    border-radius: 30px;
+}
+
+.nm         {
+    padding: auto;
+    padding-left: 90px;
+    padding-bottom: 35px;
+    font-size: larger;
+}
+
+.info       {
+    font-size: 20px;
+}
+
